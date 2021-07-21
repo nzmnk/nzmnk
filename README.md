@@ -8,6 +8,7 @@
 * SwiftUI
 * Core Data
 * Core ML 
+* MVC
 * MVVM
 * VIPER
 

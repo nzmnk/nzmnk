@@ -2,12 +2,14 @@
 
 Меня зовут Никита и я – начинающий iOS разработчик. 
 
-## Что я изучаю?
+## Навыки
 * Swift 5
 * UIKit
 * SwiftUI
 * Core Data
 * Core ML 
+* CocoaPods
+* Alamofire
 * MVC
 * MVVM
 * VIPER

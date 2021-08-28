@@ -28,7 +28,6 @@
 * [Moonshot](https://github.com/nzmnk/Moonshot) – централизованная информация о космической программе "Аполлон"
 
 ### UIKit
-* [Stocks](https://github.com/nzmnk/Stocks) - парсер информации об акциях компаний из сервиса Yahoo! Finance
 * [NBA](https://github.com/nzmnk/NBA) - информация по игрокам и командам NBA
 
 ## Связь со мной

@@ -29,6 +29,7 @@
 
 ### UIKit
 * [NBA](https://github.com/nzmnk/NBA) - информация по игрокам и командам NBA
+* [Stocks](https://github.com/nzmnk/Stocks) - получение базовой информации по выбранной акции из сервиса IEX Cloud
 
 ## Связь со мной
 * **Email**: nic.zimen@gmail.com

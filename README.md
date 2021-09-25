@@ -2,22 +2,24 @@
 
 Меня зовут Никита и я – начинающий iOS разработчик. 
 
-## Навыки
+## Ключевые навыки
 * Swift 5
 * UIKit
 * SwiftUI
 * Core Data
-* Core ML 
 * CocoaPods
 * Alamofire
+* SwiftLint
+
+## Изучаю архитектурные паттерны:
 * MVC
 * MVVM
 * VIPER
 
-## Над чем я сейчас работаю?
-* Приложение для напоминалок (UIKit/MVC)
-
 ## Мои проекты
+
+### UIKit
+* [Stocks](https://github.com/nzmnk/Stocks) - получение базовой информации по выбранной акции из сервиса IEX Cloud
 
 ### SwiftUI
 * [WeSplit](https://github.com/nzmnk/WeSplit) – удобное разделение счёта поровну между заданным количеством человек. 
@@ -26,10 +28,6 @@
 * [WordScramble](https://github.com/nzmnk/WordScramble) – составь все возможные анаграммы из заданного слова. 
 * [iExpence](https://github.com/nzmnk/iExpence) – учет расходов по двум группам. 
 * [Moonshot](https://github.com/nzmnk/Moonshot) – централизованная информация о космической программе "Аполлон"
-
-### UIKit
-* [NBA](https://github.com/nzmnk/NBA) - информация по игрокам и командам NBA
-* [Stocks](https://github.com/nzmnk/Stocks) - получение базовой информации по выбранной акции из сервиса IEX Cloud
 
 ## Связь со мной
 * **Email**: nic.zimen@gmail.com

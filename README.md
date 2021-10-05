@@ -7,6 +7,7 @@
 * UIKit
 * SwiftUI
 * Core Data
+* GCD
 * CocoaPods
 * Alamofire
 * SwiftLint
